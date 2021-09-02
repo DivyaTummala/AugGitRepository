@@ -21,6 +21,8 @@ System.out.println("Modified by person1");
 
 System.out.println("Made by person2 changes");
 
+System.err.println("Git GUI");
+
 
 }
 
